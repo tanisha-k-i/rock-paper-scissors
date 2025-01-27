@@ -16,6 +16,6 @@ View the result to see if you won, lost, or drew.
 Author
 Tanisha Kumari
 B.Tech student at IIT Roorkee, interested in coding and web development.
-
+Live Link Check out my game here:https://tanisha-k-i.github.io/rock-paper-scissors/
 License
 This project is licensed under the MIT License.
